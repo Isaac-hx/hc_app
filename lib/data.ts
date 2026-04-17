@@ -109,4 +109,4 @@ export const get_from = [
   { id: "marketplace", label: "Marketplace", type: "external" },
   { id: "offline", label: "Offline / Toko Langsung", type: "offline" },
 ];
-export const ADMIN_WHATSAPP = "6289652476684";
+export const ADMIN_WHATSAPP = "6281319991021";
